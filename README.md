@@ -582,4 +582,5 @@ To perform a full plugin release, maintainers can run ``mvn release:prepare rele
 # Assemble
 
 $ ./mvnw install
-Then upload target.hpi to Jenkins
+
+Then upload target/*.hpi to Jenkins
